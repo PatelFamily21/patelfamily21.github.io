@@ -31,7 +31,7 @@ Feel free to fork the repository, submit a pull request, or raise issues. I welc
 #### Contact Me:
 - **Email:** patelhadaisa@gmail.com
 - **LinkedIn:** [Patel Hadaisa](https://www.linkedin.com/in/patel-hadaisa-b56510216/)
-- **GitHub:** [Patel Hadaisa](https://github.com/PatelFamily21)
+- **GitHub:** [PatelFamily21](https://github.com/PatelFamily21)
 
 #### Link to Portfolio
 You can view my portfolio here: [Patel Hadaisa](https://patelfamily21.github.io)
