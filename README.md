@@ -34,4 +34,4 @@ Feel free to fork the repository, submit a pull request, or raise issues. I welc
 - **GitHub:** [Patel Hadaisa](https://github.com/PatelFamily21)
 
 #### Link to Portfolio
-You can view my portfolio here: [patelfamily21.github.io] (https://patelfamily21.github.io/)
+You can view my portfolio here: [Patel Hadaisa](https://patelfamily21.github.io)
